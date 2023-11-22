@@ -87,7 +87,7 @@ export default {
     .title{
         .titleName{
             color: #000;
-            font-family: ONE Mobile POP;
+            font-family: 'ONE-Mobile-POP';
             font-size: 52px;
             font-weight: 400;
             line-height: normal;
@@ -130,7 +130,7 @@ export default {
             justify-content: space-evenly; align-items: flex-start; 
             margin-left: 20px;
             .bigText{
-                font-family: ONE Mobile POP;
+                font-family: 'ONE-Mobile-POP';
                 font-size: 40px; font-weight: 400;
                 background: linear-gradient(270deg, #9AE2FF 50%, #7B81FE 100%);
                 background-clip: text;
@@ -140,7 +140,7 @@ export default {
             .longText{
                 margin-top: 5px;
                 color: #000;
-                font-family: Noto Sans KR;
+                font-family: 'Noto Sans KR';
                 font-size: 16px;
                 line-height: normal;
             }

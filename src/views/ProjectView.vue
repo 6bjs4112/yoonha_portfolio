@@ -116,7 +116,7 @@ export default {
     .title{
         .titleName{
             color: #000;
-            font-family: ONE Mobile POP;
+            font-family: 'ONE-Mobile-POP';
             font-size: 52px;
             font-weight: 400;
             line-height: normal;
@@ -190,7 +190,7 @@ export default {
                                 z-index: 2;
                                 color: #FFF;
                                 text-align: center;
-                                font-family: Noto Sans KR;
+                                font-family: 'Noto Sans KR';
                                 font-size: 20px;
                                 font-weight: 700;
                             }
@@ -201,7 +201,7 @@ export default {
                     width: 45%;
                     color: #000;
                     .prjTitle{
-                        font-family: ONE Mobile POP;
+                        font-family: 'ONE-Mobile-POP';
                         font-size: 36px;
                         font-weight: 400;
                         margin-bottom: 10px;
@@ -215,7 +215,7 @@ export default {
                         text-align: center;
                     }
                     .guideText{
-                        font-family: ONE Mobile POP;
+                        font-family: 'ONE-Mobile-POP';
                         font-size: 16px;
                         font-weight: 700;
                         line-height: normal;
@@ -226,11 +226,12 @@ export default {
                         -webkit-text-fill-color: transparent;
                     }
                     .prjPlan, .prjDesc{
-                        font-family: Noto Sans KR;
+                        font-family: 'Noto Sans KR';
                         font-size: 12px;
                         font-weight: 400;
-                        line-height: normal;
+                        line-height:150%;
                         margin: 15px 0;
+                        word-break: keep-all;
                     }
                     .wrapLang{
                         display: flex; flex-wrap: wrap;
@@ -245,7 +246,7 @@ export default {
                                 background: #8F94FF;
         
                                 color: #FFF;
-                                font-family: Noto Sans KR;
+                                font-family: 'Noto Sans KR';
                                 font-size: 12px;
                                 font-style: normal;
                                 font-weight: 500;

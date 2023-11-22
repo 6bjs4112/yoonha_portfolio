@@ -60,7 +60,8 @@
             <figcaption class=" darkText hover">Notion</figcaption>
           </figure>
           <p class="pageText darkText hover">
-            매일 공부한 것을 정리해 놓은 블로그입니다<br> 하루하루 배운 것을 정리하며 복습했던 흔적
+            매일 공부한 것을 정리해 놓은 블로그<br>
+            하루하루 배운 것을 정리하며 복습했던 흔적
           </p>
         </a>
       </li>
@@ -111,7 +112,7 @@ export default {
   .title{
     .titleName{
         color: #000;
-        font-family: ONE Mobile POP;
+        font-family: 'ONE-Mobile-POP';
         font-size: 52px;
         font-weight: 400;
         line-height: normal;
@@ -150,13 +151,14 @@ export default {
           font-weight: 400;
           line-height: normal;
           h2{
-            font-family: ONE Mobile POP;
+            font-family: 'ONE-Mobile-POP';
             font-size: 60px;
+            font-weight: normal;
           }
           .detail{
             margin-top: 10px;
             p{
-              font-family: Noto Sans KR;
+              font-family: 'Noto Sans KR';
               font-size: 16px;
             }
           }
@@ -176,7 +178,7 @@ export default {
 
           img{width: 37px; height: 37px;}
           figcaption{
-            font-family: Noto Sans KR;
+            font-family: 'Noto Sans KR';
             font-size: 16px;
             margin-left: 5px;
           }
@@ -193,7 +195,7 @@ export default {
       .introText{
         width: 75%; margin-left: 20px;
         color: #000;
-        font-family: Noto Sans KR;
+        font-family: 'Noto Sans KR';
         font-size: 16px;
         font-weight: 400;
         line-height: normal;
@@ -215,15 +217,16 @@ export default {
         figcaption{
           color: #000;
           text-align: center;
-          font-family: ONE Mobile POP;
+          font-family: 'ONE-Mobile-POP';
           font-size: 32px;
           margin-left: 5px;
         }
       }
       .pageText{
         color: #000;
-        font-family: Noto Sans KR;
+        font-family: 'Noto Sans KR';
         font-size: 16px;
+        line-height:155%;
       }
     }
   }
