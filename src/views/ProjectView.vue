@@ -3,6 +3,7 @@
         <article class="title">
             <h1 class="titleName darkText">Project</h1>
             <div class="decoLine"></div>
+            <!-- <p>*밑으로 갈수록 최근의</p> -->
         </article>
 
         <article class="prjData">
@@ -301,12 +302,27 @@ export default {
     }
 }
 @media (min-width:425px) and (max-width: 589px){
-        .project{
+    .project{
         .prjData{
             .wrapMain{
                 flex-direction: column-reverse;
                 .leftPic{width: 100% !important;}
                 .rightTexts{width: 100% !important; margin-bottom: 30px !important;}
+            }
+        }
+    }
+}
+@media (max-width: 424px){
+    .project{
+        .title{
+            .titleName{font-size: 40px;}
+            .decoLine{width: 150px;}
+        }
+        .prjData{
+            .wrapMain{
+                flex-direction: column-reverse;
+                .leftPic{width: 100% !important;}
+                .rightTexts{width: 80% !important; margin-bottom: 30px !important;}
             }
         }
     }
