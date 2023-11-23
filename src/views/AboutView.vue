@@ -30,7 +30,7 @@
           </figure>
           <figure class="eachInfo">
             <img src="../../public/assets/img/tel.png"/>
-            <figcaption>+8210-3428-2527</figcaption>
+            <figcaption>+82 10-3428-2527</figcaption>
           </figure>
         </div>
       </div>
