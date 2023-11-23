@@ -24,7 +24,7 @@
             <div class="textWrap">
                 <h2 class="bigText">What I can do with</h2>
                 <p class="longText darkText">
-                    웹 표준을 준수하여 시멘틱한 마크업을 구현하고 SASS를 활용하여 유지보수 가능하며 동적인 반응형 웹 사이트를 제작합니다. React, Next.js등의 프레임 워크를 이해하고 프로젝트에 활용할 수 있으며 MySQL, MongoDB를 사용해 데이터 관리를 해본 경험이 있습니다.
+                    웹 표준을 준수하여 시멘틱한 마크업을 구현하고 SASS를 활용하여 유지보수 가능한 반응형 웹 사이트를 제작합니다. React, Next.js등의 프레임 워크를 이해하고 프로젝트에 활용할 수 있으며 MySQL, MongoDB를 사용해 데이터 관리를 해본 경험이 있습니다.
                 </p>
             </div>
         </article>
