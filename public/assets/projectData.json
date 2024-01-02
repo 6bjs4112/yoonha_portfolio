@@ -105,8 +105,8 @@
             "./assets/img/pj_img/toMeal4.png",
             "./assets/img/pj_img/toMeal5.png"
         ],
-        "link":["","https://github.com/hyunji3183/Today-s_meal"],
+        "link":["https://today-s-meal.vercel.app/","https://github.com/hyunji3183/Today-s_meal"],
         "plan":"헬스에 필수적인 식단 관리 정보를 다수와 공유하고 트레이너와 회원간의 식단 관리 평가를 돕는 웹앱", 
-        "desc":"현재 5인 팀으로 프로젝트 제작 중 입니다.<br> MongoDB와 Next.js의 API Routes를 활용한 데이터의 CRUD 작업을 맡았습니다."
+        "desc":"현재 4인 팀으로 프로젝트 제작 중 입니다.<br> MongoDB와 Next.js의 API Routes를 활용한 데이터의 CRUD 작업을 맡았습니다."
     }
 ]
