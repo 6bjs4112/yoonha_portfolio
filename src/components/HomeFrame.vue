@@ -363,8 +363,11 @@ export default {
         }
         
       }
-      .mainContent{width: 100%; height: 95vh;}
+      .mainContent{width: 100%; height: 150vh;}
     }
+  }
+  .darkBtn{
+    display: none;
   }
 }
 </style>

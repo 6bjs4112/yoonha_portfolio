@@ -57,7 +57,7 @@ export default {
   background: #1E1E1E;
   transition: 0.3s ease-in;
     .hello, .email{color: #FFF;}
-    .mainContent{background-color: rgba(120, 120, 120, 0.60);}
+    .mainContent{background-color: rgba(120, 120, 120, 0.60); }
     .eachInfo:nth-child(2n+1){filter: brightness(10);}
     .darkText{color: #FFF;}
     .lightImg{display: none;}
@@ -77,5 +77,9 @@ export default {
 }
 @media (min-width:425px) and (max-width: 589px){
   .allBg .allWrap{height: 121vh;}
+}
+@media (max-width: 424px){
+  #app{ height: 200vh;}
+  .allBg .allWrap{height: 200vh;}
 }
 </style>
